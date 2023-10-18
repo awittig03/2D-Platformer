@@ -13,7 +13,9 @@ https://www.kenney.nl/assets/platformer-art-extended-enemies
 
 ## References
 
+
 ## Future Development
+Add music, sound effects, blocks
 
 ## Created by
 Alyssa Wittig
